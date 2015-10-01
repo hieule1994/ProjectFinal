@@ -14,7 +14,11 @@
 Route::get('/', function () {
     return view('index');
 });
+<<<<<<< HEAD
 Route::controller('admin','admin\layout');
 Route::controller('admin','admin\layout');
 Route::controller('admin','admin\layout');
+=======
+
+>>>>>>> origin/master
 Route::controller('user','user\signin_login');
