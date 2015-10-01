@@ -14,8 +14,7 @@
 Route::get('/', function () {
     return view('index');
 });
-// chieu chieu hieu ngoi nho long nach ben bo song 
-// thay co tang tinh dang tam
+
 Route::controller('admin','admin\layout');
 
 Route::controller('user','user\signin_login');
