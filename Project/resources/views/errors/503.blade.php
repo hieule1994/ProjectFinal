@@ -40,7 +40,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Be right back.</div>
+                <div class="title">Lỗi rồi! Bạn vui lòng lặp lại thao tác.</div>
             </div>
         </div>
     </body>
